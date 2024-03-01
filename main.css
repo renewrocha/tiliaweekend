@@ -88,8 +88,8 @@
 	--myvideo-width:unset;
 	--myvideo-height:auto;
 	--myvideo-background: #FFF1;
-	--video-background-image: url("./bg.jpg");
-	--background-main-image: url("./bg.jpg");
+	--video-background-image: url("./media/bg.jpg");
+	--background-main-image: url("./media/bg.jpg");
 	--show-codirectors: inline-block;
 	--full-screen-button: inherit;
 	--color-mode: light;
