@@ -88,8 +88,8 @@
 	--myvideo-width:unset;
 	--myvideo-height:auto;
 	--myvideo-background: #FFF1;
-	--video-background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20211031/pngtree-abstract-bg-image_914283.png");
-	--background-main-image: url("https://png.pngtree.com/thumb_back/fh260/background/20211031/pngtree-abstract-bg-image_914283.png");
+	--video-background-image: url("./bg.jpg");
+	--background-main-image: url("./bg.jpg");
 	--show-codirectors: inline-block;
 	--full-screen-button: inherit;
 	--color-mode: light;
